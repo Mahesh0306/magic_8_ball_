@@ -1,6 +1,5 @@
 # magic_8_ball
-
-A new Flutter project.
+I have build my flutter project,Ask any thing to 8 ball and tap on it it will give answers to your questions
 
 ## Getting Started
 
