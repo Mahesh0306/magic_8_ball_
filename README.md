@@ -5,12 +5,7 @@ I have build my flutter project,Ask any thing to 8 ball and tap on it it will gi
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+What you will create
+---------------------------------------------------------------------
+#We’re going to make a magical 8 ball app, it will give you the answers to all the tricky questions in life. You can make the ball change at the press of a button.
 ![Image](https://github.com/user-attachments/assets/67f3467a-76ec-4f6a-9578-4dd1c7790cf6)
